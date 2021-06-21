@@ -1,5 +1,5 @@
 Git has certain commands 
-Git is imp
+Git is important
 Git is used by developers to develop the s/w
 Git has local repository as well as remote repository
 
