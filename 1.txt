@@ -1,4 +1,4 @@
 Git is very easy to learn
 git is distributed
 git is open source
-
+git is great
