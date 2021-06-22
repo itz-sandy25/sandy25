@@ -4,3 +4,5 @@ Git is used by developers to develop the s/w
 Git has local repository as well as remote repository
 Learning git fetch and pull
 creating merge conflicts
+creating merge conflict
+
